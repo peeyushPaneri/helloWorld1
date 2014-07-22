@@ -1,0 +1,1 @@
+curl http://yourserver/jenkins/git/notifyCommit?url=https://github.com/peeyushPaneri/helloWorld1.git
